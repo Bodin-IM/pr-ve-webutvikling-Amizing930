@@ -1,0 +1,39 @@
+
+ body{
+   background-color: white;
+    #header {
+        background-color: blue;
+        font-family: 'new times roman', Times, serif;
+        color: white;
+        text-align: center;
+        height: auto;
+        width: auto;
+        justify-content: space-between;
+    }
+     #text{
+        background-color: blue;
+        font-family: 'Times New Roman', Times, serif;
+        color: rgb(255, 255, 255);
+        justify-content: space-between;
+        padding: 10px;
+        margin: 10px;
+        border: 2px solid black;
+
+        
+
+    }
+    button {
+    background-color: blue;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}   
